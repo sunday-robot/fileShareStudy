@@ -21,7 +21,7 @@ namespace fileShareStudy2
             while (true)
             {
                 OpenAndCloseFiles(args, fileAccess, fileShare);
-                Thread.Sleep(100);
+                Thread.Sleep(1);
             }
         }
 
